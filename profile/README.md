@@ -1,12 +1,25 @@
-## Hi there 👋
+<div align="center">
+<img src="https://github.com/UnxWares/.github/blob/main/unxwares-logo.png?raw=true" align="center" height="" width="400" />
+</div>  
+  
 
-<!--
+# <div align="center">Hi there 👋, we are UnxWares</div>  
+  
 
-**Here are some ideas to get you started:**
+🇫🇷 Nous sommes une entreprise Française de développement et d'hébergement informatique
+🇺🇸 We are a French IT development and hosting company  
+  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🔭 🇫🇷 Nous travaillons actuellement sur la création de notre [site web](https://www.unxwares.com)
+  🔭 🇺🇸 We're currently working on the creation of our [website](https://www.unxwares.com)  
+  
+
+- 🌱 🇫🇷 Nous travaillons pour proposer des solutions informatiques écoresponsables, avec un programme de protection de l'environnement
+  🌱 🇺🇸 We are working to offer eco-responsible IT solutions, with an environment protect programme  
+  
+
+- ⚡🇫🇷 Retrouvez nous sur [https://www.unxwares.com](https://www.unxwares.com) et sur nos réseaux
+  ⚡🇺🇸 Follow us on [https://www.unxwares.com](https://www.unxwares.com) and on our social networks  
+  
+
+<br/>  
