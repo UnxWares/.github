@@ -18,6 +18,13 @@
   🌱 🇺🇸 We are working to offer eco-responsible IT solutions, with an environment protect programme  
   
 
+- 🤝 🇫🇷 Nos projets open source font partie d'**UnxWares Open Source & Community** (UWOSC), le travail open source que nous soutenons et maintenons, comme nos [charts Helm](https://github.com/UnxWares/helm)
+  <br/>
+  🤝 🇺🇸 Our open source projects are part of **UnxWares Open Source & Community** (UWOSC), the open source work we support and maintain, such as our [Helm charts](https://github.com/UnxWares/helm)
+  <br/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://helm.unxwares.studio/assets/uwosc/badge-maintained-dark.svg"><img src="https://helm.unxwares.studio/assets/uwosc/badge-maintained.svg" alt="UnxWares Open Source &amp; Community: supported and maintained by UnxWares" width="308" height="44"></picture>
+  
+
 - ⚡🇫🇷 Retrouvez nous sur [https://www.unxwares.com](https://www.unxwares.com) et sur nos réseaux
   <br/>
   ⚡🇺🇸 Follow us on [https://www.unxwares.com](https://www.unxwares.com) and on our social networks  
